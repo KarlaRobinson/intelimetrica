@@ -1,4 +1,4 @@
-# Intelimetrica Backend Examen
+# Intelimetrica
 # startup Melp
 # App para brindar información sobre los mejores restaurantes de la ciudad.
 
